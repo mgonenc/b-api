@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-21T19:49:27 CET" name="Default suite" finished-at="2021-02-21T19:49:30 CET" duration-ms="3307">
+    <groups>
+    </groups>
+    <test started-at="2021-02-21T19:49:27 CET" name="Default test" finished-at="2021-02-21T19:49:30 CET" duration-ms="3307">
+      <class name="testcases.RateMovieTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.RateMovieTests@5276e6b0]" started-at="2021-02-21T19:49:26 CET" name="setup" finished-at="2021-02-21T19:49:27 CET" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getRequestTokenTest()[pri:0, instance:testcases.RateMovieTests@5276e6b0]" started-at="2021-02-21T19:49:27 CET" name="getRequestTokenTest" finished-at="2021-02-21T19:49:29 CET" duration-ms="1934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequestTokenTest -->
+        <test-method signature="rateMovieWithInValidGuestSession()[pri:0, instance:testcases.RateMovieTests@5276e6b0]" started-at="2021-02-21T19:49:29 CET" name="rateMovieWithInValidGuestSession" finished-at="2021-02-21T19:49:30 CET" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rateMovieWithInValidGuestSession -->
+        <test-method signature="rateMovieWithValidGuestSession()[pri:0, instance:testcases.RateMovieTests@5276e6b0]" started-at="2021-02-21T19:49:30 CET" name="rateMovieWithValidGuestSession" finished-at="2021-02-21T19:49:30 CET" duration-ms="660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rateMovieWithValidGuestSession -->
+      </class> <!-- testcases.RateMovieTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
